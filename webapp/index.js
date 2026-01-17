@@ -1,7 +1,7 @@
 async function updateCounter() {
   try {
     const response = await fetch(
-      "https://zbbsikoihsmwhujy2cndydckzq0ysvxq.lambda-url.us-east-1.on.aws/",
+      "https://zfin25pohuhhpuedk445ipoa2a0kcwpa.lambda-url.us-east-1.on.aws",
       {
         method: "GET",
         headers: {
